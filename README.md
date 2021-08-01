@@ -1,6 +1,6 @@
 ### hey there <img src="./assets/hi.gif" width="25px">
 
-<img align="right" alt="GIF" src="./assets/programmer-1.gif" width="450" height="288" />
+<img align="right" alt="GIF" src="./assets/programmer-1.gif" width="400" height="300" />
 
 <!-- <img align="right" alt="GIF" src="./assets/prorammer-2.gif" width="512" height="384" /> -->
 
