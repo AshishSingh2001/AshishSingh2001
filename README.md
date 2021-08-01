@@ -1,11 +1,11 @@
 ### hey there <img src="./assets/hi.gif" width="25px">
 
-<img align="right" alt="GIF" src="./assets/programmer-1.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="./assets/programmer-1.gif" width="450" height="288" />
 
 <!-- <img align="right" alt="GIF" src="./assets/prorammer-2.gif" width="512" height="384" /> -->
 
 <a href="ashish.k.singh1001@gmail.com">
-  <img align="left" alt="Ashish's E-mail" width="22px" src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" />
+  <img align="left" alt="Ashish's E-mail" width="22px" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" />
 </a>
 <a href="https://github.com/AshishSingh2001">
   <img align="left" alt="Ashish Singh | Github" width="22px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
