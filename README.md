@@ -53,7 +53,7 @@
   <img height="180em" width="331em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishSingh2001&layout=compact&langs_count=8"/> -->
 
 <!-- Github Stats + Streaks -->
-
+  <img src = "https://activity-graph.herokuapp.com/graph?username=AshishSingh2001&theme=react-dark&hide_border=true&area=true" width = 800>
   <img src = "https://github-readme-stats.vercel.app/api?username=AshishSingh2001&show_icons=true&theme=dark&hide_border=true" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=AshishSingh2001&theme=dark&hide_border=true" width = 400>
   
