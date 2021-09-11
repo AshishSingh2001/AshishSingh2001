@@ -35,9 +35,9 @@
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left"> 
   <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter Logo" width="50" height="50" hspace="15"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" alt="Dart Logo" width="50" height="50" hspace="15"/>
   <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase Logo" width="50" height="50" hspace="15"/>
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C lang Logo" width="50" height="50" hspace="15"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50" hspace="15"/>
   <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mysql Logo" width="50" height="50" hspace="15"/>
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git Logo" width="50" height="50" hspace="15"/>
 </p>
