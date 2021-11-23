@@ -19,16 +19,12 @@
 # <img src="./assets/Developer.gif" width="45px">Ashish Singh&nbsp;
 
 <!-- About Me Section -->
-<p>
-  <em>
-    I am a 3rd Year undergraduate from <a href="https://www.iiitv.ac.in/"> <b>IIIT Vadodara</b>, Gujarat</a>.  
-    A budding <b>Software Developer</b> <img src="./assets/Developer.gif" width="30px"> and a <b>Open Source Enthusiast,</b>&nbsp;<img src="./assets/Designer.gif" width="36px">  who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="./assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="./assets/Medal.gif" width="20px">
-  </em>  
-</p>
-
+   
+- I am a 3rd Year undergraduate from <b>IIIT Vadodara</b>. 
+- A budding <b>Flutter Developer</b> <img src="./assets/Developer.gif" width="30px">
+- <b>Open Source</b> Enthusiast,&nbsp;<img src="./assets/Designer.gif" width="36px">
+- Tinkering with __linux__ in my free time
+<!-- - Currently working on [Arcadia Auction](https://github.com/kapilkumar2001/Arcadia-Auction) -->
 <br><br><br>
 
 <!-- Technologies and Tools Section -->
