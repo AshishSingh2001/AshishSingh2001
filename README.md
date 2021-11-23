@@ -20,11 +20,20 @@
 
 <!-- About Me Section -->
    
-- I am a 3rd Year undergraduate from <b>IIIT Vadodara</b>. 
+<!-- - I am a 3rd Year undergraduate from <b>IIIT Vadodara</b>. 
 - A budding <b>Flutter Developer</b> <img src="./assets/Developer.gif" width="30px">
 - <b>Open Source</b> Enthusiast,&nbsp;<img src="./assets/Designer.gif" width="36px">
-- Tinkering with __linux__ in my free time
+- Tinkering with __linux__ in my free time -->
 <!-- - Currently working on [Arcadia Auction](https://github.com/kapilkumar2001/Arcadia-Auction) -->
+
+<br>
+
+- 🌱 I’m currently learning golang
+- 👯 I’m looking to collaborate on flutter projects
+- 🤔 I’m looking for help with [Arcadia Auction](https://github.com/kapilkumar2001/Arcadia-Auction)
+- 💬 Ask me about flutter and dart
+<!-- - ⚡ Fun fact: ... -->
+
 <br><br><br>
 
 <!-- Technologies and Tools Section -->
