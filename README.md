@@ -30,8 +30,8 @@
 
 - 🌱 I’m currently learning golang
 - 👯 I’m looking to collaborate on flutter projects
-- 🤔 I’m looking for help with [Arcadia Auction](https://github.com/kapilkumar2001/Arcadia-Auction)
-- 💬 Ask me about flutter and dart
+<!-- - 🤔 I’m looking for help with [Arcadia Auction](https://github.com/kapilkumar2001/Arcadia-Auction) -->
+- 💬 Ask me about flutter, dart and volleyball
 <!-- - ⚡ Fun fact: ... -->
 
 <br><br><br>
