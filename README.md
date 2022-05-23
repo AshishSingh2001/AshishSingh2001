@@ -1,22 +1,10 @@
 ### hey there <img src="./assets/hi.gif" width="25px">
 
-<img align="right" alt="GIF" src="./assets/programmer-1.gif" width="400" height="300" />
+<!-- <img align="right" alt="GIF" src="./assets/programmer-1.gif" width="400" height="300" /> -->
 
 <!-- <img align="right" alt="GIF" src="./assets/prorammer-2.gif" width="512" height="384" /> -->
 
-<a href="ashish.k.singh1001@gmail.com">
-  <img align="left" alt="Ashish's E-mail" width="22px" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" />
-</a>
-<a href="https://github.com/AshishSingh2001">
-  <img align="left" alt="Ashish Singh | Github" width="22px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ashishsingh2001/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
-</a>
-
-![](https://komarev.com/ghpvc/?username=AshishSingh2001&label=Visitors)
-
-# <img src="./assets/Developer.gif" width="45px">Ashish Singh&nbsp;
+# <img src="./assets/Developer.gif" width="45px">I'm Ashish Singh&nbsp;
 
 <!-- About Me Section -->
    
@@ -62,6 +50,19 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=AshishSingh2001&theme=dark&hide_border=true" width = 400>
   
 </p>
+
+
+<a href="ashish.k.singh1001@gmail.com">
+  <img align="left" alt="Ashish's E-mail" width="22px" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" />
+</a>
+<a href="https://github.com/AshishSingh2001">
+  <img align="left" alt="Ashish Singh | Github" width="22px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ashishsingh2001/">
+  <img align="left" alt="Ashish's LinkedIN" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
+</a>
+
+![](https://komarev.com/ghpvc/?username=AshishSingh2001&label=Visitors)
 
 <!--
 **AshishSingh2001/AshishSingh2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
