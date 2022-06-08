@@ -1,10 +1,10 @@
-### hey there <img src="./assets/hi.gif" width="25px">
+### hey there <img src="./assets/hi.gif" width="25" height="25">
 
-<!-- <img align="right" alt="GIF" src="./assets/programmer-1.gif" width="400" height="300" /> -->
+<img align="right" alt="GIF" src="./assets/programmer-1.gif" width="400" height="300" />
 
 <!-- <img align="right" alt="GIF" src="./assets/prorammer-2.gif" width="512" height="384" /> -->
 
-# <img src="./assets/Developer.gif" width="45px">I'm Ashish Singh&nbsp;
+# <img src="./assets/Developer.gif" width="45">I'm Ashish Singh&nbsp;
 
 <!-- About Me Section -->
    
@@ -35,7 +35,7 @@
 </p>
 <br>
 
-### <img src='./assets/github-wavy.gif' width='25px'> My Github Stats:
+### <img src='./assets/github-wavy.gif' width='25'> My Github Stats:
 
 <p align="center">
   
